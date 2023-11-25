@@ -1,5 +1,6 @@
 const hello = 'Hello';
-const returnHello = () => {
+const returnHello = () => 
+  {
   console.log("Hello GitHub!");
 };
 
